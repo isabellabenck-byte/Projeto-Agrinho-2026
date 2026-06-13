@@ -4,4 +4,4 @@ O agronegócio é um dos principais pilares da economia brasileira e está prese
 
 Diante dessa realidade, torna-se importante buscar formas mais eficientes de acompanhar a situação dos recursos hídricos, contribuindo para uma produção mais sustentável e para a preservação da água, um recurso essencial para a vida.
 
-Pensando nesse cenário, decidi criar uma plataforma digital que irá monitorar o uso de água na agropecuária/agronegócio, a poluição de mananciais devido ao uso de agrotóxicos e a qualidade da água (se pode ser usada na agricultura e na pecuária). Esse monitoramento ocorrerá através de sensores públicos.
+Pensando nesse cenário, decidi criar uma plataforma digital que irá monitorar o uso de água na agropecuária e no agronegócio, a poluição de mananciais devido ao uso de agrotóxicos e a qualidade da água (indicando se ela pode ser utilizada na agricultura e na pecuária). Esse monitoramento ocorrerá através de sensores públicos.
